@@ -1,4 +1,5 @@
-Hi! this is darsh sriavastava!
+Hi! this is darsh srivastava!
+a btec cse pre final student and
 an enthusiastic program solver.
 major domains- dsa(c++),frontend,backend;
 languages worked upon: c++,java,react,bootstrap, node js,express js,html, css,javascript,socket io;
