@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/darshsri1](https://github.com/darshsri1)
 
 - 📫 How to reach me **darshsri66@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gXsAqyKLBDTkvPQm0EVOgWijR6u8cOuc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12YcIPV5iHqm0Sn7Cz3efZpHuokTEga2Q/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
