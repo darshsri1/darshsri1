@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshsri1" alt="darshsri1" /></a> </p>
 
-- 🔭 I’m currently working on **Mern stack website**
-
-- 🌱 I’m currently learning **Mern stack(mongo ,express js,react js,node js)**
-
+- 🔭 I’m currently working on **Web dev and Machine learning**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/darshsri1](https://github.com/darshsri1)
+- My portfoilio-[https://darsh-portfolio-2pby.vercel.app/]
 
 - 📫 How to reach me **darshsri66@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/12YcIPV5iHqm0Sn7Cz3efZpHuokTEga2Q/view?usp=drive_link)
